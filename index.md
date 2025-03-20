@@ -4,7 +4,7 @@ layout: homepage
 
 
 ## Short Biography
-I’m a 4th year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. Ping Zhang in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
+I’m a 4th year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
 
 
 ## Publications
