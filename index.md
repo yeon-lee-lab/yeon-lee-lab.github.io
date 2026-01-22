@@ -4,8 +4,7 @@ layout: homepage
 
 
 ## Short Biography
-I’m a 4th year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests lie in data mining, machine learning and their application to trustworthy AI, computational medicine.
-
+I’m a 4th year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I’m fortunately working with Prof. [Ping Zhang](https://www.pingzhang.net) in AIMed (Artificial Intelligence in Medicine) Lab. My research lies at the intersection of deep learning and causal inference, with applications in healthcare and biomedicine. I am particularly interested in treatment effect estimation using real-world patient data to support evidence-based and personalized healthcare decisions. 
 
 ## Publications
 - **A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data**
@@ -16,7 +15,22 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
   <br>
    [[Paper](https://arxiv.org/pdf/2412.20373)]
 
+- **The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective**
+  <br>
+   Thai-Hoang Pham, Jiayuan Chen, **Seungyeon Lee**, Yuanlong Wang, Sayoko Moroi, Xueru Zhang, Ping Zhang
+  <br>
+  39th Conference on Neural Information Processing Systems, **NeurIPS ’25**
+  <br>
+   [[Paper](https://arxiv.org/pdf/2510.08840)]
 
+- **Domain Invariant Representation Learning and Sleep Dynamics Modeling for Automatic Sleep Staging**
+  <br>
+   **Seungyeon Lee**, Thai-Hoang Pham, Zhao Cheng, Ping Zhang
+  <br>
+  ACM Transactions on Computing for Healthcare, 2025
+  <br>
+   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3757066)]
+  
 - **The recent trend of twin epidemic in the United States: a 10-year longitudinal cohort study of co-prescriptions of opioids and stimulants**
   <br>
    **Seungyeon Lee**, Wenyu Song, David W. Bates, Richard D. Urman, Ping Zhang
