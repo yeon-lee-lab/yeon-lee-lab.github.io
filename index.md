@@ -98,11 +98,8 @@ I’m a 4th year Ph.D. student at the Department of Computer Science and Enginee
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9121218)]
 
   
-## Awards
-
-- Student Travel Awards, ICDM 2022.
-- Poster Competition First Place Winne, INFORMS International Conference 2018. 
 
 ## Services
 
-- Conference Reviewers: ICDM, SDM, KDD
+- Conference reviewer: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD); Confer- ence on Neural Information Processing Systems (NeurIPS); IEEE International Conference on Data Mining (ICDM).
+- Conference sub-reviewer: International Conference on Machine Learning (ICML); International Conference on Learning Representations (ICLR).
